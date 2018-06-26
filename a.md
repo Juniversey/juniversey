@@ -5,3 +5,8 @@
 def func():
 	print('---')
 ```
+
+```py
+def fun2():
+	print('222222')
+```
